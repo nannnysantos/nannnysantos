@@ -1,7 +1,7 @@
-- 👋 olá eu sou @nannnysantos
-- 👀 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Olá eu sou @nannnysantos
+- 👀 Meu email de contato é @girlane.santos@escola.pr.gov.br
+- 🌱 Eu estou interesada em aprender a progamar novas linguagens
+- 💞️ Eu estou apredendo a progamar recentemente a linguagem de javascript e scratch 
 - 📫 How to reach me ...
 
 <!---
